@@ -1,0 +1,7 @@
+the main program (right now) is mainwindow.py
+
+activate the environment
+python mainwindow.py
+
+read a file
+not much else

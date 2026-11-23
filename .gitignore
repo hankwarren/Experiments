@@ -1,0 +1,9 @@
+.DS_Store
+pycache/
+*.py[cod]
+*$py.class
+.so
+*.avi
+m.wav
+*.mp4
+*.mov
